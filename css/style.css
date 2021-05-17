@@ -341,6 +341,14 @@ color: #34313D;
 
 }
 
+h2::before {
+  content: "";
+  width: 30px;
+  height: 3px;
+  background-color: blue;
+  display: block;
+}
+
 
 
 
